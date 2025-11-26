@@ -1,5 +1,5 @@
 {
-  "name": "@bentosunfox/gg.sunday.roslyn",
+  "name": "gg.sunday.roslyn",
   "displayName": "Roslyn",
   "version": "1.0.0",
   "unity": "2018.1",
@@ -9,8 +9,5 @@
     "roslyn",
     "compiler"
   ],
-  "category": "Coding Tools",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  }
+  "category": "Coding Tools"
 }
