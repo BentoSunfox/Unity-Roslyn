@@ -1,7 +1,7 @@
 {
   "name": "com.abxy.roslyn",
   "displayName": "Roslyn",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "unity": "2018.1",
   "description": "The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs",
   "keywords": [
